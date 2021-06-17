@@ -1,0 +1,23 @@
+.title {
+    font-family: "Sawarabi Mincho";
+    font-size: 30px;
+    text-align: center;
+}
+
+.user {
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
+
+.now{
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
+
+.logout{
+    position:fixed;
+    right:10px;
+    top:10px;
+}
